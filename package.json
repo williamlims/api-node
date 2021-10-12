@@ -1,0 +1,22 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "New application node using API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamlims/api-node.git"
+  },
+  "author": "William Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamlims/api-node/issues"
+  },
+  "homepage": "https://github.com/williamlims/api-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
